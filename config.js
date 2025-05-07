@@ -11,6 +11,8 @@
 
   "recompressStaticAssets": true,
 
+  "readOnly": true,
+
   "logging": [
     {
       "level": "verbose",
